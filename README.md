@@ -4,13 +4,10 @@ A passionate data analyst and data visualization enthusiast. With a love for lan
  
 feel free to explore my # portfolio at [https://vinodmahi.github.io/portfolio.io/](https://vinodmahi.github.io/portfolio.io/). It's a curated showcase of my data-driven endeavors, highlighting my dedication to harnessing the power of information for informed decision-making."
 
-# SKILLS and EXPIRENCE
+# Things I.m good at 🔥
 * Python
 * Power BI
 * Excel
 * SQl
 
-  
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/vinodmahi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/vinod-mahajanrs/)  
 
