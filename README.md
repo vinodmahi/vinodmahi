@@ -4,8 +4,7 @@ A passionate data analyst and data visualization enthusiast. With a love for lan
  
 feel free to explore my # portfolio at [https://vinodmahi.github.io/portfolio.io/](https://vinodmahi.github.io/portfolio.io/). It's a curated showcase of my data-driven endeavors, highlighting my dedication to harnessing the power of information for informed decision-making."
 
-
-Skills and Expirence
+# SKILLS and EXPIRENCE
 * Python
 * Power BI
 * Excel
