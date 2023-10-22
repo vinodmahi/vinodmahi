@@ -12,7 +12,8 @@ feel free to explore my # portfolio at 🔗 [https://vinodmahi.github.io/portfol
 
 
 # Reach me
-[<img src='https://github.com/vinodmahi/vinodmahi/blob/main/github.png' alt='github' height='40'>](https://github.com/vinodmahi)  [<img src='[https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg](https://github.com/vinodmahi/vinodmahi/blob/main/317750_linkedin_icon.png)' alt='linkedin' height='40'>](https://www.linkedin.com/in/vinod-mahajanrs/)  
+[<img src='https://github.com/vinodmahi/vinodmahi/blob/main/github.png' alt='github' height='40'>](https://github.com/vinodmahi)  
+[<img src='https://github.com/vinodmahi/vinodmahi/blob/main/317750_linkedin_icon.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/vinod-mahajanrs/)  
 
 
 
