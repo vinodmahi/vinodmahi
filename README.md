@@ -9,7 +9,7 @@ feel free to explore my # portfolio at 🔗 [https://vinodmahi.github.io/portfol
  
 **Libraries & Tools:** Pandas, NumPy, Matplotlib, Seaborn.
 
-**Vsiualization Tools:** Power BI, Spotfire
+**Vsiualization Tools:** Microsoft Power BI
 
 **Data Analysis:** Exploratory Data Analysis,
 
